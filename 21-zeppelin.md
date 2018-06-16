@@ -222,7 +222,10 @@ Jeśli miałeś problem z instalacją spróbuj:
 5. Jeśli zostaniesz poproszony o login i hasło podaj swoje dane z GitHub
 
 <script>
+(function() {
 const pathname = window.location.pathname.split("/")
 const projectName = "warsawjs-workshop-" + pathname[pathname.length - 1].split(".")[0];
 document.body.innerHTML = document.body.innerHTML.replace(/WARSAWJS_REPO_NAME/g, projectName);
+document.title = document.title.replace(/WARSAWJS_REPO_NAME/g, projectName);
+})();
 </script>
