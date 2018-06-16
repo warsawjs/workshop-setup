@@ -3,7 +3,7 @@
 2. [Node.js + npm](#nodejs--npm)
 3. [git](#git)
 4. [Stworzony projekt dzięki create-react-app](#create-react-app)
-5. [Stworzony projekt opublikowany na GitHub](#pierwszy-commit)
+5. [Stworzony projekt opublikowany na GitHub](#opublikuj-projekt-na-github)
 
 # Edytor tekstu
 Pamiętaj, aby mieć zainstalowany edytor tekstu np.
