@@ -1,8 +1,4 @@
-<link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/>
-
-<p align="center">
-    <img src="assets/logo.png" alt="Settings"/>
-</p>
+<link rel="shortcut icon" href="./favicon.ico" type="image/x-icon"/>
 
 # Co jest potrzebne na `WARSAWJS_REPO_NAME`?
 
