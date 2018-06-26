@@ -252,7 +252,6 @@ Jeśli miałeś problem z instalacją spróbuj:
 
 5. Jeśli zostaniesz poproszony o login i hasło podaj swoje dane z GitHub
 
-```html
 <script>
 (function() {
     const pathname = window.location.pathname.split("/");
@@ -261,4 +260,3 @@ Jeśli miałeś problem z instalacją spróbuj:
     document.title = document.title.replace(/WARSAWJS_REPO_NAME/g, projectName);
 })();
 </script>
-```
