@@ -27,11 +27,13 @@
     },
     "MD033": {
         "allowed_elements": [
+            "link",
             "iframe",
             "kbd",
             "br",
             "figure",
             "figcaption",
+            "p",
             "img",
             "i",
             "mark",
