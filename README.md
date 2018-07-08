@@ -14,10 +14,10 @@
 
 * <https://warsawjs.github.io/workshop-setup/22/5/index.html>
 
-### WarsawJS Workshop #23: Cykl testowania kodu 2/3: Testy end-to-end (E2E)
+### WarsawJS Workshop #23: Cykl testowania kodu 2/3: Testy end-to-end
 
-* <https://warsawjs.github.io/workshop-setup/23/5/index.html>
+* ...
 
 ### WarsawJS Workshop #24: Cykl testowania kodu 3/3: Testy integracyjne
 
-* <https://warsawjs.github.io/workshop-setup/24/5/index.html>
+* ...
