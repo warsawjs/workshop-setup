@@ -5,7 +5,7 @@ z podanych poniżej instrukcji.
 
 ## GitHub Desktop
 
-**Tylko dla Windows i MacOS**
+**Tylko dla Windows i MacOS!**
 
 GitHub Desktop jest to klient graficzny do obsługi gita w połączeniu z GitHubem.
 
