@@ -3,6 +3,8 @@ WarsawJS Workshop #22 - Grupa nr 1
 Przygotowanie do warsztatów WarsawJS Workshop #22
 czyli Testowanie kodu 1/3: Testy jednostkowe
 
+Prowadzący: [Rafał Pocztarski](https://github.com/rsp)
+
 *work in progress*
 
 Przygotowanie
@@ -40,6 +42,12 @@ Co warto byłoby mieć aby ułatwić sobie pracę:
 - Dobry edytor tekstu
 - Node.js
 - Git
+
+Przykłady dobrych edytorów tekstu - wszystkie darmowe i działające na Linux/Mac/Windows:
+
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Atom](https://atom.io/)
+- [Brackets](http://brackets.io/)
 
 Dla chętnych chcących aby ich aplikacja iw łatwy sposób
 była dostępna w Internecie:
