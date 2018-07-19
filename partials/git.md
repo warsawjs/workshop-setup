@@ -9,11 +9,11 @@ z podanych poniżej instrukcji.
 
 GitHub Desktop jest to klient graficzny do obsługi gita w połączeniu z GitHubem.
 
-1. Ściągnij aplikację z [https://desktop.github.com/](https://desktop.github.com/)
+1. Ściągnij aplikację z https://desktop.github.com/
 2. Rozpakuj archiwum
 3. Uruchom aplikację
 4. Naciśnij `Sign into Github.com`
-5. Wpisz swoje dane z [github.com](https://github.com)
+5. Wpisz swoje dane z https://github.com
 
 ## Wiersz poleceń
 
@@ -21,11 +21,11 @@ GitHub Desktop jest to klient graficzny do obsługi gita w połączeniu z GitHub
 
 #### Windows
 
-Zainstaluj gita używając tego instalatora: [https://git-scm.com/download/windows](https://git-scm.com/download/windows)
+Zainstaluj gita używając tego instalatora: https://git-scm.com/download/windows
 
 #### MacOS
 
-Zainstaluj gita używając tego instalatora: [https://git-scm.com/download/mac](https://git-scm.com/download/mac).
+Zainstaluj gita używając tego instalatora: https://git-scm.com/download/mac.
 
 #### Linux
 
