@@ -1,6 +1,6 @@
 # WarsawJS Workshop: Wstępna konfiguracja
 
-**Domyślny config dostępny jest w pliku `index.md` lub na https://warsawjs.github.io/workshop-setup/**
+**Domyślny config dostępny jest w pliku `index.md` lub na <https://warsawjs.github.io/workshop-setup/>**
 
 <p align="center">
     <img src="assets/logo.png" alt="Settings"/>
