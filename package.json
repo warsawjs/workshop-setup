@@ -1,24 +1,24 @@
 {
-  "name": "workshop-setup",
-  "version": "1.0.0",
-  "description": "WarsawJS Workshop: Wstępna konfiguracja",
-  "main": "index.md",
-  "dependencies": {
-    "markdownlint-cli": "^0.11.0"
-  },
-  "devDependencies": {},
-  "scripts": {
-    "test": "markdownlint . --ignore node_modules"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/warsawjs/workshop-setup.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/warsawjs/workshop-setup/issues"
-  },
-  "homepage": "https://github.com/warsawjs/workshop-setup#readme"
+    "name": "workshop-setup",
+    "version": "1.0.0",
+    "description": "WarsawJS Workshop: Wstępna konfiguracja",
+    "main": "index.md",
+    "dependencies": {
+        "markdownlint-cli": "^0.11.0"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "markdownlint . --ignore node_modules"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/warsawjs/workshop-setup.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/warsawjs/workshop-setup/issues"
+    },
+    "homepage": "https://github.com/warsawjs/workshop-setup#readme"
 }
