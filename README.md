@@ -14,6 +14,7 @@
 
 ### WarsawJS Workshop #22: Testowanie kodu 1/3: Testy jednostkowe
 
+* <https://warsawjs.github.io/workshop-setup/22/3/>
 * <https://warsawjs.github.io/workshop-setup/22/4/>
 * <https://warsawjs.github.io/workshop-setup/22/5/>
 
