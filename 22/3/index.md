@@ -26,7 +26,7 @@
 Instalujemy `jest` oraz biblioteki powiązane
 
 ```bash
-cd TWOJ_PROJEKT
+cd warsawjs-workshop-22-converter
 npm install jest babel-jest babel-preset-env regenerator-runtime
 ```
 
@@ -151,7 +151,6 @@ Tworzymy plik `.gitignore`, w którym wpisujemy
 ```text
 node_modules
 npm-debug.log
-.idea
 *~
 ```
 
