@@ -1,67 +1,69 @@
 # Grupa nr.4: Jak się przygotować do warsztatów?
 
-1. zapoznać się z [domyślnym config-iem](https://warsawjs.github.io/workshop-setup/21/)
-i wykonać polecenia stamtąd
+1. zapoznać się z
+    [domyślnym config-iem](https://warsawjs.github.io/workshop-setup/21/)
+    i wykonać polecenia stamtąd
 2. skonfigurować [Jest](https://jestjs.io/) w projekcie
 3. skonfigurować formatowanie kodu w edytorze
 4. skonfigurować Eslint
-3. wypchnąć zsetupowany projekt na GitHub
+5. wypchnąć zsetupowany projekt na GitHub
 
-*Uwaga nr 1*: Podczas setup-owania własnego projektu można "posiłkować się" [projektem trenera](https://github.com/mykulyak/warsawjs-workshop-22-project).
+*Uwaga nr 1*: Podczas setup-owania własnego projektu można "posiłkować się"
+[projektem trenera](https://github.com/mykulyak/warsawjs-workshop-22-project).
 
 *Uwaga nr 2*: kroki 3 oraz 4 są opcjonalne, aczkolwiek bardzo polecane
 
 ## Konfiguracja Jest
 
-1. Instalujemy `jest` oraz biblioteki powiązane:
+Instalujemy `jest` oraz biblioteki powiązane
 
-```
-> cd TWOJ_PROJEKT
-> npm install jest babel-jest babel-preset-env regenerator-runtime 
+```bash
+cd TWOJ_PROJEKT
+npm install jest babel-jest babel-preset-env regenerator-runtime
 ```
 
-2. Tworzymy plik `.babelrc`, w którym piszemy
+Tworzymy plik `.babelrc`, w którym piszemy
 
-```
+```json
 {
   "presets": ["env"]
 }
 ```
 
-3. Tworzymy katalog `src` a w nim dwa pliki - `index.js` a także `index.test.js`. `index.js`
-zostawiamy na razie pusty, a w `index.test.js` piszemy 
+Tworzymy katalog `src` a w nim dwa pliki - `index.js` a także `index.test.js`.
+    `index.js` zostawiamy na razie pusty, a w `index.test.js` piszemy
 
-```
+```javascript
 import './index';
 
 test('Jest should work', () => {
 });
 ```
 
-4. W pliku `package.json` modyfikujemy/dodajemy w sekcji `scripts` polecenia `test` oraz `test:watch`:
+W pliku `package.json` modyfikujemy/dodajemy w sekcji `scripts` polecenia
+    `test` oraz `test:watch`:
 
-```
+```json
 {
-  ...
   "scripts": {
     "test": "jest",
     "test:watch": "jest --watchAll"
   }
-  ...
 }
 ```
 
-5. Testujemy setup:
+Testujemy setup:
 
-Jeśli wszystko działa poprawnie, to po wykonaniu w terminalu następującego polecenia
+Jeśli wszystko działa poprawnie, to po wykonaniu w terminalu następującego
+    polecenia
 
-```
-> npm test
+```bash
+npm test
 ```
 
 powinniście zobaczyć następujące napisy
 
-```
+```text
  PASS  src/index.test.js (5.149s)
   √ Jest should work (15ms)
 
@@ -72,12 +74,11 @@ Time:        8.294s
 Ran all test suites.
 ```
 
-
 ## Konfiguracja formatowania kodu w edytorze
 
-1. tworzymy plik `.editorconfig` w którym wpisujemy
+tworzymy plik `.editorconfig` w którym wpisujemy
 
-```
+```text
 root = true
 
 [*]
@@ -91,18 +92,17 @@ indent_size = 2
 trim_trailing_whitespaces = true
 ```
 
-
 ## Konfiguracja Eslint
 
-1. Instalujemy pakiet `eslint`
+Instalujemy pakiet `eslint`
 
-```
-> npm install eslint
+```bash
+npm install eslint
 ```
 
-2. tworzymy plik konfiguracyjny `.eslintrc.json` w którym wpisujemy
+tworzymy plik konfiguracyjny `.eslintrc.json` w którym wpisujemy
 
-```
+```json
 {
     "env": {
         "browser": true,
@@ -136,21 +136,20 @@ trim_trailing_whitespaces = true
 }
 ```
 
-
 ## Wypychanie zsetupowanego projektu na GitHub
 
-1. Tworzymy plik `.gitignore`, w którym wpisujemy
+Tworzymy plik `.gitignore`, w którym wpisujemy
 
-```
+```text
 node_modules
 npm-debug.log
 *~
 ```
 
-2. Komitujemy zmiany i puszujemy (wypychamy) na GitHub
+Komitujemy zmiany i puszujemy (wypychamy) na GitHub
 
-```
-> git add .
-> git commit -m "Setup project"
-> git push origin HEAD:master
+```bash
+git add .
+git commit -m "Setup project"
+git push origin HEAD:master
 ```
