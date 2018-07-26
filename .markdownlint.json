@@ -1,6 +1,5 @@
 {
     "default": true,
-    "no-bare-urls": false,
     "no-alt-text": false,
     "MD002": {
         "level": 1
@@ -42,5 +41,6 @@
             "details",
             "summary"
         ]
-    }
+    },
+    "MD034": true
 }
