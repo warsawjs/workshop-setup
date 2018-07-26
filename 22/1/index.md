@@ -5,4 +5,4 @@
 3. [Node.js + npm](/workshop-setup/partials/node+npm.html)
 4. [Git](/workshop-setup/partials/git.html)
 5. Sklonować projekt na GitHubie i zainstalować zależności zgodnie z instrukcją na:
-    https://github.com/rsp/warsawjs-workshop-22-unit-converter
+    <https://github.com/rsp/warsawjs-workshop-22-unit-converter>
