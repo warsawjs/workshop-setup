@@ -21,6 +21,7 @@
 
 ### WarsawJS Workshop #23: Testowanie kodu 2/3: Testy end-to-end
 
+* <https://warsawjs.github.io/workshop-setup/23/1/>
 * <https://warsawjs.github.io/workshop-setup/23/3/>
 * <https://warsawjs.github.io/workshop-setup/23/4/>
 
