@@ -24,6 +24,7 @@
 * <https://warsawjs.github.io/workshop-setup/23/1/>
 * <https://warsawjs.github.io/workshop-setup/23/3/>
 * <https://warsawjs.github.io/workshop-setup/23/4/>
+* <https://warsawjs.github.io/workshop-setup/23/5/>
 
 ### WarsawJS Workshop #24: Testowanie kodu 3/3: Testy integracyjne
 
