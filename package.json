@@ -4,11 +4,12 @@
     "description": "WarsawJS Workshop: Wstępna konfiguracja",
     "main": "index.md",
     "dependencies": {
-        "markdownlint-cli": "^0.11.0"
+        "markdownlint-cli": "^0.13.0"
     },
     "devDependencies": {},
     "scripts": {
-        "test": "markdownlint . --ignore node_modules"
+        "test": "npm run lint",
+        "lint": "markdownlint . --ignore node_modules"
     },
     "repository": {
         "type": "git",
