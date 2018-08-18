@@ -1,5 +1,3 @@
-<link rel="shortcut icon" href="./favicon.ico" type="image/x-icon"/>
-
 # Co jest potrzebne na `warsawjs-workshop-21-zeppelin`?
 
 1. [Edytor tekstu](/workshop-setup/partials/edytor-tekstu.html)

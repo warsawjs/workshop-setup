@@ -1,4 +1,4 @@
-# Grupa nr.4: Jak się przygotować do warsztatów?
+# Grupa nr. 4: Jak się przygotować do warsztatów?
 
 1. zapoznać się z
     [domyślnym config-iem](https://warsawjs.github.io/workshop-setup/21/)
