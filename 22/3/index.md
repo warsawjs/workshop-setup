@@ -1,4 +1,4 @@
-# Co jest potrzebne na workshop - konfiguracja dla grupy 3 (Piotr Zientara)
+# Grupa nr. 3: Jak przygotować się do warsztatów?
 
 ## Zadania ogólne (prawdopodobnie pierwsze 4 masz już zrobione)
 
