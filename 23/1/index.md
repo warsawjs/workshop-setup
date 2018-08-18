@@ -9,8 +9,8 @@
 
 Projekty:
 
-    * [warsawjs-workshop-23-warmup][warmup]
-    * [warsawjs-workshop-23-unit-converter][converter]
+* [warsawjs-workshop-23-warmup][warmup]
+* [warsawjs-workshop-23-unit-converter][converter]
 
 [warmup]: https://github.com/rsp/warsawjs-workshop-23-warmup
 [converter]: https://github.com/rsp/warsawjs-workshop-23-unit-converter
