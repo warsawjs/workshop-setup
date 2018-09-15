@@ -1,10 +1,14 @@
+<p align="center">
+    <img src="assets/logo.png" alt=""/>
+</p>
+
 # WarsawJS Workshop: Wstępna konfiguracja
 
-**Domyślny config dostępny jest w pliku `index.md` lub na <https://warsawjs.github.io/workshop-setup/>**
+[![travis](https://img.shields.io/travis/warsawjs/workshop-setup.svg?maxAge=2592000)](https://travis-ci.org/warsawjs/workshop-setup)
 
-<p align="center">
-    <img src="assets/logo.png" alt="Settings"/>
-</p>
+## Podstawowe wymagania
+
+**Domyślne instrukcje dostępne są pod tym adresem:** <https://warsawjs.github.io/workshop-setup/>
 
 ## Linki
 
