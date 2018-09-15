@@ -6,9 +6,9 @@
 
 [![travis](https://img.shields.io/travis/warsawjs/workshop-setup.svg?maxAge=2592000)](https://travis-ci.org/warsawjs/workshop-setup)
 
-## Podstawowe wymagania
+## :bulb: Podstawowe wymagania
 
-**Domyślne instrukcje dostępne są pod tym adresem:** <https://warsawjs.github.io/workshop-setup/>
+Domyślne instrukcje dostępne są pod tym adresem: <https://warsawjs.github.io/workshop-setup/>
 
 ## Linki
 
