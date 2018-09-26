@@ -15,7 +15,7 @@
     },
     "MD009": {
         "br_spaces": 4,
-        "list_item_empty_lines": 4
+        "list_item_empty_lines": true
     },
     "MD013": {
         "code_blocks": false,
