@@ -1,12 +1,12 @@
 # Grupa nr. 4: Jak się przygotować do warsztatów?
 
-1. zapoznać się z
+1. Zapoznać się z
     [domyślnym config-iem](https://warsawjs.github.io/workshop-setup/21/)
     i wykonać polecenia stamtąd
-2. skonfigurować [Jest](https://jestjs.io/) w projekcie
-3. skonfigurować formatowanie kodu w edytorze
-4. skonfigurować Eslint
-5. wypchnąć zsetupowany projekt na GitHub
+2. Skonfigurować [Jest](https://jestjs.io/) w projekcie
+3. Skonfigurować formatowanie kodu w edytorze
+4. Skonfigurować ESLint
+5. Wypchnąć zsetupowany projekt na GitHub
 
 *Uwaga nr 1*: Podczas setup-owania własnego projektu można "posiłkować się"
 [projektem trenera](https://github.com/mykulyak/warsawjs-workshop-22-project).
@@ -92,7 +92,7 @@ indent_size = 2
 trim_trailing_whitespaces = true
 ```
 
-## Konfiguracja Eslint
+## Konfiguracja ESLint
 
 Instalujemy pakiet `eslint`
 
