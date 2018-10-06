@@ -6,6 +6,9 @@
 4. [Git](/workshop-setup/partials/git.html)
 5. Sklonować poniższy projekt zgodnie z instrukcją w `README.md`.
 6. Zainstalować zależności w projekcie za pomocą komendy `npm install` lub `yarn`.
+7. Zainstalować następujące pluginy w przeglądarce Google Chrome:
+    * Redux DevTools
+    * React DevTools
 
 Projekty:
 
