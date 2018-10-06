@@ -1,6 +1,6 @@
 # Grupa nr. 4: Jak się przygotować do warsztatów?
 
-1. zapoznać się z
+1. Zapoznać się z
     [domyślnym config-iem](https://warsawjs.github.io/workshop-setup/21/)
     i wykonać następujące punkty stamtąd:
     1. [Edytor tekstu](https://warsawjs.github.io/workshop-setup/partials/edytor-tekstu.html)
@@ -8,18 +8,18 @@
     3. [Node.js + NPM](https://warsawjs.github.io/workshop-setup/partials/node+npm.html)
     4. [Git](https://warsawjs.github.io/workshop-setup/partials/git.html)
     5. [Projekt opublikowany na GitHub](https://warsawjs.github.io/workshop-setup/partials/opublikuj-projekt-na-github.html)
-2. zainstalować niezbędne biblioteki / sterowniki
+2. Zainstalować niezbędne biblioteki / sterowniki
     1. [TestCafe](https://github.com/DevExpress/testcafe)
     2. [Puppeteer](https://github.com/GoogleChrome/puppeteer)
     3. [Nightwathch.js](http://nightwatchjs.org/)
         1. Geckodriver - jeśli zamierzacie testować na Firefox
         2. Chromedriver - jeśli zamierzacie testować na Chrome
     4. [Cucumber.js](https://github.com/cucumber/cucumber-js)
-3. utworzenie struktury katalogów oraz komend NPM
-4. skonfigurować formatowanie kodu w edytorze
-5. skonfigurować Eslint
-6. wypchnąć zsetupowany projekt na GitHub
-7. założyć konto na [Heroku](https://signup.heroku.com/)
+3. Utworzyć strukturę katalogów oraz komend npm
+4. Skonfigurować formatowanie kodu w edytorze
+5. Skonfigurować ESLint
+6. Wypchnąć zsetupowany projekt na GitHub
+7. Założyć konto na [Heroku](https://signup.heroku.com/)
 
 *Uwaga nr 1*: Podczas setup-owania własnego projektu można "posiłkować się"
 [projektem trenera](https://github.com/mykulyak/warsawjs-workshop-23-project).
@@ -192,7 +192,7 @@ indent_size = 2
 trim_trailing_whitespaces = true
 ```
 
-## Konfiguracja Eslint
+## Konfiguracja ESLint
 
 Instalujemy pakiet `eslint`
 

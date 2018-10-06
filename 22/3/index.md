@@ -11,10 +11,10 @@
 
 ## Zadania szczegółowe (dla naszej konfiguracji)
 
-1. skonfigurować [Jest](https://jestjs.io/) w projekcie
-2. skonfigurować formatowanie kodu w edytorze
-3. skonfigurować Eslint
-4. wypchnąć zsetupowany projekt na GitHub
+1. Skonfigurować [Jest](https://jestjs.io/) w projekcie
+2. Skonfigurować formatowanie kodu w edytorze
+3. Skonfigurować ESLint
+4. Wypchnąć zsetupowany projekt na GitHub
 
 *Uwaga nr 1*: Podczas setup-owania własnego projektu można "posiłkować się"
 [projektem trenera](https://github.com/tuhaj/warsawjs-workshop-22-converter).
@@ -100,7 +100,7 @@ indent_size = 2
 trim_trailing_whitespaces = true
 ```
 
-## Konfiguracja Eslint
+## Konfiguracja ESLint
 
 Instalujemy pakiet `eslint`
 
