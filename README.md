@@ -39,5 +39,6 @@ Domyślne instrukcje dostępne są pod tym adresem: <https://warsawjs.github.io/
 
 ### WarsawJS Workshop #25: React.js
 
+* <https://warsawjs.github.io/workshop-setup/25/1/>
 * <https://warsawjs.github.io/workshop-setup/25/2/>
 * <https://warsawjs.github.io/workshop-setup/25/5/>
