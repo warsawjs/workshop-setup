@@ -42,4 +42,5 @@ Domyślne instrukcje dostępne są pod tym adresem: <https://warsawjs.github.io/
 * <https://warsawjs.github.io/workshop-setup/25/1/>
 * <https://warsawjs.github.io/workshop-setup/25/2/>
 * <https://warsawjs.github.io/workshop-setup/25/3/>
+* <https://warsawjs.github.io/workshop-setup/25/4/>
 * <https://warsawjs.github.io/workshop-setup/25/5/>
