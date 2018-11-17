@@ -8,11 +8,7 @@
 
 [![travis](https://img.shields.io/travis/warsawjs/workshop-setup.svg?maxAge=2592000)](https://travis-ci.org/warsawjs/workshop-setup)
 
-## :bulb: Podstawowe wymagania
-
-Domyślne instrukcje dostępne są pod tym adresem: <https://warsawjs.github.io/workshop-setup/>
-
-## Linki
+## :bulb: Linki
 
 ### WarsawJS Workshop #21: React.js + Redux
 
