@@ -11,7 +11,7 @@
     npx create-react-app WARSAWJS_REPO_NAME
     ```
 
-4. Po wykonaniu się komendy naszym oczom powinno ukazać się coś podobnego do
+4. Po wykonaniu się polecenia naszym oczom powinno ukazać się coś podobnego do
 
     ```text
     Success! Created WARSAWJS_REPO_NAME at /Users/uzytkownik/Projects/WARSAWJS_REPO_NAME

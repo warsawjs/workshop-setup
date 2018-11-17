@@ -76,7 +76,7 @@ Ran all test suites.
 
 ## Konfiguracja formatowania kodu w edytorze
 
-tworzymy plik `.editorconfig` w którym wpisujemy
+Tworzymy plik `.editorconfig` w którym wpisujemy
 
 ```text
 root = true

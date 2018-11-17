@@ -84,7 +84,7 @@ Ran all test suites.
 
 ## Konfiguracja formatowania kodu w edytorze
 
-tworzymy plik `.editorconfig` w którym wpisujemy
+Tworzymy plik `.editorconfig` w którym wpisujemy
 
 ```text
 root = true
@@ -93,7 +93,7 @@ root = true
 end_of_line = lf
 insert_final_newline = false
 
-[*.{babelrc,js,html,css,sass}]
+[*.{babelrc,js,jsx,html,css,sass}]
 charset = utf-8
 indent_style = space
 indent_size = 2

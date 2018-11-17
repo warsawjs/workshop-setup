@@ -14,7 +14,7 @@
 
 ## Wiersz poleceń
 
-1. Przejdź do folderu z twoim projektem 
+1. Przejdź do folderu z twoim projektem
     - `cd nazwa_folderu` – komenda do zmiany folderu
     - `ls` – wypisanie zawartości folderu (macOS/linux)
     - `dir` – wypisanie zawartości folderu (Windows)
