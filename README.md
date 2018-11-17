@@ -47,4 +47,8 @@ Domyślne instrukcje dostępne są pod tym adresem: <https://warsawjs.github.io/
 
 ### WarsawJS Workshop #26: JavaScript dla początkujących
 
+* <https://warsawjs.github.io/workshop-setup/26/1/>
+* <https://warsawjs.github.io/workshop-setup/26/2/>
+* <https://warsawjs.github.io/workshop-setup/26/3/>
 * <https://warsawjs.github.io/workshop-setup/26/4/>
+* <https://warsawjs.github.io/workshop-setup/26/5/>
