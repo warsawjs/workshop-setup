@@ -1,4 +1,4 @@
-# Grupa nr. 4: Jak przygotować się do warsztatów?
+# Grupa nr. 5: Jak przygotować się do warsztatów?
 
 Konfiguracja środowiska:
 
@@ -9,9 +9,10 @@ Konfiguracja środowiska:
     * [Instalacja](/workshop-setup/partials/git.html)
     * [Konfiguracja użytkownika](/workshop-setup/partials/git-konfiguracja-uzytkownika.html)
     * [Konfiguracja globalna](/workshop-setup/partials/git-konfiguracja-globalna.html)
+5. [EditorConfig](/workshop-setup/partials/editorconfig.html)
 
 Konfiguracja projektu:
 
-1. Sklonować projekt
-    <https://github.com/woprzech/warsawjs-workshop-26-my-photos>
+1. Sklonować projekt:
+    <https://github.com/piecioshka/warsawjs-workshop-25-myskills-boilerplate>
 2. Zainstalować zależności w projekcie za pomocą polecenia `npm install` lub `yarn`.

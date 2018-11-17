@@ -1,15 +1,27 @@
 # Grupa nr. 3: Jak przygotować się do warsztatów?
 
-1. [Edytor tekstu](/master/partials/edytor-tekstu.md) - Polecam Visual Studio Code
-2. [Przeglądarka](/master/partials/przegladarka.md) - Polecam Google Chrome
-3. [Node.js + npm](/master/partials/node+npm.md)
-4. [Rozpoczęcie nowego projektu](/master/partials/stworz-projekt.md)
-5. Polecam zaopatrzyć się w notatnik i coś do pisania
-6. Jeśli zdecydujecie się na Edytor VSC to podaję listę przydatnych dodatków:
+Konfiguracja środowiska:
 
-- Bracket Pair Colorizer
-- Prettier
+1. [Edytor tekstu](/master/partials/edytor-tekstu.html) - Polecam `VSC`
+2. [Przeglądarka](/master/partials/przegladarka.html) - Polecam `Google Chrome`
+3. [Node.js + npm](/master/partials/node+npm.html)
+4. Git
+    * [Instalacja](/workshop-setup/partials/git.html)
+    * [Konfiguracja użytkownika](/workshop-setup/partials/git-konfiguracja-uzytkownika.html)
+    * [Konfiguracja globalna](/workshop-setup/partials/git-konfiguracja-globalna.html)
 
-Projekt:
+Konfiguracja projektu:
 
-- <https://github.com/plysik/warsawjs-workshop-26-my-photos>
+1. [Rozpoczęcie nowego projektu](/master/partials/stworz-projekt.html)
+2. Jeśli zdecydujecie się na edytor `Visual Studio Code` to podaję listę
+    przydatnych dodatków:
+
+* Bracket Pair Colorizer
+* Prettier
+
+Docelowy projekt:
+<https://github.com/plysik/warsawjs-workshop-26-my-photos>
+
+Dodatkowo:
+
+1. Zaopatrzyć się w notatnik i coś do pisania

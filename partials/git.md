@@ -3,18 +3,6 @@
 Jeśli nie masz jeszcze zainstalowanego i/lub skonfigurowanego Gita użyj jednej
 z podanych poniżej instrukcji.
 
-## GitHub Desktop
-
-**Tylko dla Windows i MacOS!**
-
-GitHub Desktop jest to klient graficzny do obsługi Gita w połączeniu z GitHubem.
-
-1. Ściągnij aplikację z <https://desktop.github.com/>
-2. Rozpakuj archiwum
-3. Uruchom aplikację
-4. Naciśnij `Sign into Github.com`
-5. Wpisz swoje dane z <https://github.com>
-
 ## Wiersz poleceń
 
 ### Instalacja
@@ -52,30 +40,14 @@ git --version
 # git version 2.17.1
 ```
 
-### Konfiguracja GitHuba
+## GitHub Desktop
 
-1. Ustaw nazwę użytkownika poprzez
+**Tylko dla Windows i MacOS!**
 
-    ```bash
-    git config --global user.name "twoja_nazwa_uzytkownika"
-    ```
+GitHub Desktop jest to klient graficzny do obsługi Gita w połączeniu z GitHubem.
 
-2. Sprawdź czy nazwa została zmieniona
-
-    ```bash
-    git config --global user.name
-    # twoja_nazwa_uzytkownika
-    ```
-
-3. Ustaw maila poprzez
-
-    ```bash
-    git config --global user.email "twoj_email"
-    ```
-
-4. Sprawdź czy mail został zmieniony
-
-    ```bash
-    git config --global user.email 
-    # twoj_email
-    ```
+1. Ściągnij aplikację z <https://desktop.github.com/>
+2. Rozpakuj archiwum
+3. Uruchom aplikację
+4. Naciśnij `Sign into Github.com`
+5. Wpisz swoje dane z <https://github.com>

@@ -5,7 +5,7 @@
 3. [Node.js + npm](/workshop-setup/partials/node+npm.html)
 4. [Git](/workshop-setup/partials/git.html)
 5. Sklonować poniższy projekt i uruchomić go zgodnie z instrukcją w `README.md`.
-6. Zainstalować zależności w projekcie za pomocą komendy `npm install` lub `yarn`.
+6. Zainstalować zależności w projekcie za pomocą polecenia `npm install` lub `yarn`.
 7. Zainstalować Reactowe rozszerzenie do DevTools
     * [Chrome](https://goo.gl/nHdKEo)
     * [Firefox](https://goo.gl/mbEXqw)

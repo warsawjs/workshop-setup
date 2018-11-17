@@ -4,9 +4,9 @@
 2. [Przeglądarka](/workshop-setup/partials/przegladarka.html)
 3. [Node.js + npm](/workshop-setup/partials/node+npm.html)
 4. [Git](/workshop-setup/partials/git.html)
-5. Sklonować poniższy projekt zgodnie z instrukcją w `README.md`.
-6. Zainstalować zależności w projekcie.
 
-Projekty:
+Konfiguracja projektu:
 
-* <https://github.com/piecioshka/warsawjs-workshop-24-admin-panel>
+1. Sklonować projekt
+    <https://github.com/piecioshka/warsawjs-workshop-24-admin-panel>
+2. Zainstalować zależności w projekcie.
