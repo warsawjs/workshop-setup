@@ -10,7 +10,7 @@ Konfiguracja środowiska:
     * [Konfiguracja użytkownika](/workshop-setup/partials/git-konfiguracja-uzytkownika.html)
     * [Konfiguracja globalna](/workshop-setup/partials/git-konfiguracja-globalna.html)
 
-Konfiguracja projektu:
+Konfiguracja projektu `warsawjs-workshop-26-my-photos`:
 
 1. Sklonować projekt
     <https://github.com/woprzech/warsawjs-workshop-26-my-photos>

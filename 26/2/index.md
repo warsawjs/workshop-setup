@@ -10,13 +10,13 @@ Konfiguracja środowiska:
     * [Konfiguracja użytkownika](/workshop-setup/partials/git-konfiguracja-uzytkownika.html)
     * [Konfiguracja globalna](/workshop-setup/partials/git-konfiguracja-globalna.html)
 
-Konfiguracja projektu:
+Konfiguracja projektu `warsawjs-workshop-26-my-photos`:
 
 1. [Rozpoczęcie nowego projektu](/master/partials/stworz-projekt.html)
-
-Docelowy projekt:
-<https://github.com/nataliya19/warsawjs-workshop-26-my-photos>
 
 Dodatkowo:
 
 1. Zachęcam wziąć notatnik i długopis
+
+Docelowy projekt:
+<https://github.com/nataliya19/warsawjs-workshop-26-my-photos>

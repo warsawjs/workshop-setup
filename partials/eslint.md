@@ -36,10 +36,19 @@ npm install eslint-config-NAZWA
 
 ### Stworzenie pliku z konfiguracją
 
-W głównym katalogu projektu stwórz plik `.eslintrcjs` o zawartości:
+W głównym katalogu projektu stwórz plik `.eslintrc.js` o zawartości:
 
 ```js
 module.exports = {
-    extends: 'NAZWA'
+    extends: 'NAZWA',
+
+    env: {
+        browser: true,
+        node: true,
+        es6: true,
+    },
+    rules: {},
+    globals: {},
+    parserOptions: {}
 };
 ```

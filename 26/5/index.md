@@ -10,9 +10,13 @@ Konfiguracja środowiska:
     * [Konfiguracja użytkownika](/workshop-setup/partials/git-konfiguracja-uzytkownika.html)
     * [Konfiguracja globalna](/workshop-setup/partials/git-konfiguracja-globalna.html)
 5. [EditorConfig](/workshop-setup/partials/editorconfig.html)
+6. [ESLint](/workshop-setup/partials/eslint.html)
 
-Konfiguracja projektu:
+Konfiguracja projektu `warsawjs-workshop-26-my-photos`:
 
 1. Sklonować projekt:
     <https://github.com/piecioshka/warsawjs-workshop-25-myskills-boilerplate>
 2. Zainstalować zależności w projekcie za pomocą polecenia `npm install` lub `yarn`.
+
+Docelowy projekt:
+<https://github.com/piecioshka/warsawjs-workshop-26-my-photos>

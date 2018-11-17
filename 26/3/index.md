@@ -10,7 +10,7 @@ Konfiguracja środowiska:
     * [Konfiguracja użytkownika](/workshop-setup/partials/git-konfiguracja-uzytkownika.html)
     * [Konfiguracja globalna](/workshop-setup/partials/git-konfiguracja-globalna.html)
 
-Konfiguracja projektu:
+Konfiguracja projektu `warsawjs-workshop-26-my-photos`:
 
 1. [Rozpoczęcie nowego projektu](/master/partials/stworz-projekt.html)
 2. Jeśli zdecydujecie się na edytor `Visual Studio Code` to podaję listę
@@ -19,9 +19,9 @@ Konfiguracja projektu:
 * Bracket Pair Colorizer
 * Prettier
 
-Docelowy projekt:
-<https://github.com/plysik/warsawjs-workshop-26-my-photos>
-
 Dodatkowo:
 
 1. Zaopatrzyć się w notatnik i coś do pisania
+
+Docelowy projekt:
+<https://github.com/plysik/warsawjs-workshop-26-my-photos>
