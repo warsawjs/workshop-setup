@@ -1,0 +1,18 @@
+# Grupa nr. 1: Jak przygotować się do warsztatów?
+
+Konfiguracja środowiska:
+
+1. [Edytor tekstu](/master/partials/edytor-tekstu.html)
+2. [Przeglądarka](/master/partials/przegladarka.html)
+3. [Node.js + npm](/master/partials/node+npm.html)
+4. Git
+    * [Instalacja](/workshop-setup/partials/git.html)
+    * [Konfiguracja użytkownika](/workshop-setup/partials/git-konfiguracja-uzytkownika.html)
+    * [Konfiguracja globalna](/workshop-setup/partials/git-konfiguracja-globalna.html)
+
+Konfiguracja projektu:
+
+1. [Rozpoczęcie nowego projektu](/master/partials/stworz-projekt.html)
+
+Docelowy projekt:
+<https://github.com/kgajowy/warsawjs-workshop-26-my-photos>

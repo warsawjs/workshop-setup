@@ -1,3 +1,5 @@
+<link rel="shortcut icon" href="./favicon.ico" type="image/x-icon"/>
+
 <p align="center">
     <img src="assets/logo.png" alt=""/>
 </p>
