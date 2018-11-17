@@ -15,7 +15,7 @@ Konfiguracja środowiska:
 Konfiguracja projektu `warsawjs-workshop-26-my-photos`:
 
 1. Sklonować projekt:
-    <https://github.com/piecioshka/warsawjs-workshop-25-myskills-boilerplate>
+    <https://github.com/piecioshka/warsawjs-workshop-26-my-photos-boilerplate>
 2. Zainstalować zależności w projekcie za pomocą polecenia `npm install` lub `yarn`.
 
 Docelowy projekt:
