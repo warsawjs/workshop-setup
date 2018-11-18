@@ -2,9 +2,9 @@
 
 Konfiguracja środowiska:
 
-1. [Edytor tekstu](/master/partials/edytor-tekstu.html)
-2. [Przeglądarka](/master/partials/przegladarka.html)
-3. [Node.js + npm](/master/partials/node+npm.html)
+1. [Edytor tekstu](/workshop-setup/partials/edytor-tekstu.html)
+2. [Przeglądarka](/workshop-setup/partials/przegladarka.html)
+3. [Node.js + npm](/workshop-setup/partials/node+npm.html)
 4. Git
     * [Instalacja](/workshop-setup/partials/git.html)
     * [Konfiguracja użytkownika](/workshop-setup/partials/git-konfiguracja-uzytkownika.html)
@@ -12,7 +12,7 @@ Konfiguracja środowiska:
 
 Konfiguracja projektu `warsawjs-workshop-26-my-photos`:
 
-1. [Rozpoczęcie nowego projektu](/master/partials/stworz-projekt.html)
+1. [Rozpoczęcie nowego projektu](/workshop-setup/partials/stworz-projekt.html)
 
 Dodatkowo:
 
