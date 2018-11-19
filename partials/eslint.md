@@ -1,11 +1,11 @@
 # ESLint
 
-Narzędzie pozwala weryfikować napisany kod, aby spełniał wymagania ustaloone
+Narzędzie pozwala weryfikować napisany kod, aby spełniał wymagania ustalone
 przez zespół developerski bądź trenera.
 
 ## Instalacja
 
-Ze względu, że narzędzie znajduje się w npm wystarczy wydać polecenie:
+Ze względu, że narzędzie znajduje się w `npm` wystarczy wydać polecenie:
 
 ```bash
 npm install eslint
@@ -52,3 +52,11 @@ module.exports = {
     parserOptions: {}
 };
 ```
+
+### Włączenie w edytorach
+
+#### WebStorm / PHPStorm
+
+1. Otwórz `File` -> `Settings` -> `Language & Frameworks` -> `JavaScript` ->
+    `Code Quality Tools` -> `ESLint`
+2. Wybierz opcją `Enable`
