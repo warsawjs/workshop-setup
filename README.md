@@ -46,3 +46,7 @@
 * <https://warsawjs.github.io/workshop-setup/26/3/>
 * <https://warsawjs.github.io/workshop-setup/26/4/>
 * <https://warsawjs.github.io/workshop-setup/26/5/>
+
+## WarsawJS Workshop #27: TDD oraz Pair programming
+
+* <https://warsawjs.github.io/workshop-setup/27/>
