@@ -50,3 +50,10 @@
 ## WarsawJS Workshop #27: TDD oraz Pair programming
 
 * <https://warsawjs.github.io/workshop-setup/27/>
+
+## WarsawJS Workshop #28: PWA
+
+* <https://warsawjs.github.io/workshop-setup/28/1/>
+* <https://warsawjs.github.io/workshop-setup/28/2/>
+* <https://warsawjs.github.io/workshop-setup/28/3/>
+* <https://warsawjs.github.io/workshop-setup/28/4/>
