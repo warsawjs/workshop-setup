@@ -16,7 +16,7 @@ Konfiguracja projektu `warsawjs-workshop-26-my-photos`:
 
 Dodatkowo:
 
-1. Zaopatrzyć się w notatnik i coś do pisania
+* Zaopatrzyć się w notatnik i coś do pisania
 
 Docelowy projekt:
 <https://github.com/plysik/warsawjs-workshop-26-my-photos>

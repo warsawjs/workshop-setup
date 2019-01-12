@@ -19,7 +19,7 @@ Konfiguracja projektu `warsawjs-workshop-27-tdd`:
 2. Zainstalować zależności w projekcie za pomocą polecenia `npm install` lub `yarn`.
 3. Przetestować działanie aplikacji za pomocą `npm test`.
 
-Dodatkowo
+Dodatkowo:
 
 * Przeczytać dokumentację projektów:
     + <https://mochajs.org/>

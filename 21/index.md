@@ -1,4 +1,4 @@
-# Co jest potrzebne na `warsawjs-workshop-21-zeppelin`?
+# Co jest potrzebne na `WarsawJS Workshop #21`?
 
 1. [Edytor tekstu](/workshop-setup/partials/edytor-tekstu.html)
 2. [Przeglądarka](/workshop-setup/partials/przegladarka.html)

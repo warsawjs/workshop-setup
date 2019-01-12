@@ -16,7 +16,7 @@ Konfiguracja projektu `warsawjs-workshop-26-my-photos`:
 
 Dodatkowo:
 
-1. Zachęcam wziąć notatnik i długopis
+* Zachęcam wziąć notatnik i długopis
 
 Docelowy projekt:
 <https://github.com/nataliya19/warsawjs-workshop-26-my-photos>
