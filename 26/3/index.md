@@ -13,11 +13,6 @@ Konfiguracja środowiska:
 Konfiguracja projektu `warsawjs-workshop-26-my-photos`:
 
 1. [Rozpoczęcie nowego projektu](/workshop-setup/partials/stworz-projekt.html)
-2. Jeśli zdecydujecie się na edytor `Visual Studio Code` to podaję listę
-    przydatnych dodatków:
-
-* Bracket Pair Colorizer
-* Prettier
 
 Dodatkowo:
 

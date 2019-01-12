@@ -3,13 +3,6 @@
 Konfiguracja środowiska:
 
 1. [Edytor tekstu](/workshop-setup/partials/edytor-tekstu.html)
-    + Pluginy do Visual Studio Code
-        - <https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer>
-        - <https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker>
-        - <https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-polish>
-        - <https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint>
-        - <https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost>
-        - <https://marketplace.visualstudio.com/items?itemName=maty.vscode-mocha-sidebar>
 2. [Przeglądarka](/workshop-setup/partials/przegladarka.html)
 3. [Node.js + npm](/workshop-setup/partials/node+npm.html)
 4. Git
