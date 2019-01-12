@@ -89,7 +89,7 @@ insert_final_newline = false
 charset = utf-8
 indent_style = space
 indent_size = 2
-trim_trailing_whitespaces = true
+trim_trailing_whitespace = true
 ```
 
 ## Konfiguracja ESLint

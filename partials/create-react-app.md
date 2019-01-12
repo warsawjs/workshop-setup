@@ -16,10 +16,10 @@
     ```text
     Success! Created WARSAWJS_REPO_NAME at /Users/uzytkownik/Projects/WARSAWJS_REPO_NAME
     Inside that directory, you can run several commands:
-    
+
       npm start
         Starts the development server.
-    
+
       npm run build
         Bundles the app into static files for production.
 
