@@ -6,9 +6,9 @@ Konfiguracja środowiska:
 2. [Przeglądarka](/workshop-setup/partials/przegladarka.html) - Polecam `Google Chrome`
 3. [Node.js + npm](/workshop-setup/partials/node+npm.html)
 4. Git
-    * [Instalacja](/workshop-setup/partials/git.html)
-    * [Konfiguracja użytkownika](/workshop-setup/partials/git-konfiguracja-uzytkownika.html)
-    * [Konfiguracja globalna](/workshop-setup/partials/git-konfiguracja-globalna.html)
+    + [Instalacja](/workshop-setup/partials/git.html)
+    + [Konfiguracja użytkownika](/workshop-setup/partials/git-konfiguracja-uzytkownika.html)
+    + [Konfiguracja globalna](/workshop-setup/partials/git-konfiguracja-globalna.html)
 
 Konfiguracja projektu `warsawjs-workshop-26-my-photos`:
 

@@ -8,19 +8,19 @@ Warto przeczytać:
 
 1. Globalny plik `.gitconfig`
 
-    * Tworzymy plik `.gitignore` w katalogu użytkownika
+    + Tworzymy plik `.gitignore` w katalogu użytkownika
 
-        + macOS / linux
+        - macOS / linux
 
             ```bash
             touch ~/.gitconfig
             ```
 
-        + Windows
+        - Windows
 
             `C:/Users/%USER%/.gitconfig`
 
-    * Następnie uruchamiamy:
+    + Następnie uruchamiamy:
 
         ```bash
         git config --global core.excludesfile ~/.gitignore
@@ -29,19 +29,19 @@ Warto przeczytać:
 
 2. Globalny plik `.gitignore`
 
-    * Wykluczamy katalogi, które zawierają konfigurację edytorów oraz pliku systemowe:
+    + Wykluczamy katalogi, które zawierają konfigurację edytorów oraz pliku systemowe:
 
-        + macOS / linux
+        - macOS / linux
 
             ```bash
             touch ~/.gitignore
             ```
 
-        + Windows
+        - Windows
 
             `C:/Users/%USER%/.gitignore`
 
-    * Zawartość pliku `~/.gitignore`:
+    + Zawartość pliku `~/.gitignore`:
 
         ```text
         # Windows

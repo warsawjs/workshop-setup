@@ -11,5 +11,5 @@ Konfiguracja projektu:
     <https://github.com/piecioshka/warsawjs-workshop-25-myskills>
 2. Zainstalować zależności w projekcie za pomocą polecenia `npm install` lub `yarn`.
 3. Zainstalować następujące pluginy w przeglądarce Google Chrome:
-    * Redux DevTools
-    * React DevTools
+    + Redux DevTools
+    + React DevTools

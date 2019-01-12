@@ -7,11 +7,11 @@
 5. Sklonować poniższy projekt i uruchomić go zgodnie z instrukcją w `README.md`.
 6. Zainstalować zależności w projekcie za pomocą polecenia `npm install` lub `yarn`.
 7. Zainstalować Reactowe rozszerzenie do DevTools
-    * [Chrome](https://goo.gl/nHdKEo)
-    * [Firefox](https://goo.gl/mbEXqw)
+    + [Chrome](https://goo.gl/nHdKEo)
+    + [Firefox](https://goo.gl/mbEXqw)
 8. Zainstalować Reduxowe rozszerzenie do DevTools
-    * [Chrome](https://goo.gl/4ZMca2)
-    * [Firefox](https://goo.gl/tmA9HM)
+    + [Chrome](https://goo.gl/4ZMca2)
+    + [Firefox](https://goo.gl/tmA9HM)
 
 Projekty:
 

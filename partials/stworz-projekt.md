@@ -6,8 +6,8 @@
     mkdir warsawjs-workshop-NR-NAZWA
     ```
 
-    * NR - jest to numer warsztatu
-    * NAZWA - jest to opis aplikacji, tworzonej podczas szkolenia
+    + NR - jest to numer warsztatu
+    + NAZWA - jest to opis aplikacji, tworzonej podczas szkolenia
 
 2. Przejdź do niego:
 
