@@ -6,7 +6,7 @@
     1. [Edytor tekstu](https://warsawjs.github.io/workshop-setup/partials/edytor-tekstu.html)
     2. [Przeglądarka](https://warsawjs.github.io/workshop-setup/partials/przegladarka.html)
     3. [Node.js + NPM](https://warsawjs.github.io/workshop-setup/partials/node+npm.html)
-    4. [Git](https://warsawjs.github.io/workshop-setup/partials/git.html)
+    4. [Git](https://warsawjs.github.io/workshop-setup/partials/git-instalacja.html)
     5. [Projekt opublikowany na GitHub](https://warsawjs.github.io/workshop-setup/partials/opublikuj-projekt-na-github.html)
 2. zaciągnąć repozytorium trenera
 3. zainstalować niezbędne biblioteki oraz zweryfikować poprawność instalacji

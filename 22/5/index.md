@@ -3,7 +3,7 @@
 1. [Edytor tekstu](/workshop-setup/partials/edytor-tekstu.html)
 2. [Przeglądarka](/workshop-setup/partials/przegladarka.html)
 3. [Node.js + npm](/workshop-setup/partials/node+npm.html)
-4. [Git](/workshop-setup/partials/git.html)
+4. [Git](/workshop-setup/partials/git-instalacja.html)
 5. Sklonować kilka projektów i zainstalować zależności w każdym z nich:
 
     - [`warsawjs-workshop-22-alarm-clock`](https://github.com/piecioshka/warsawjs-workshop-22-alarm-clock)

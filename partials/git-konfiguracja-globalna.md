@@ -2,9 +2,9 @@
 
 Warto przeczytać:
 
-- <https://piecioshka.pl/blog/2018/12/11/git-jak-usunac-przedostatnia-rewizje.html>
-- <https://piecioshka.pl/blog/2018/11/20/dlaczego-nie-dodajemy-do-gita-katalogu-node-modules.html>
-- <https://piecioshka.pl/blog/2017/02/06/globalna-konfiguracja-gita.html>
+* <https://piecioshka.pl/blog/2018/12/11/git-jak-usunac-przedostatnia-rewizje.html>
+* <https://piecioshka.pl/blog/2018/11/20/dlaczego-nie-dodajemy-do-gita-katalogu-node-modules.html>
+* <https://piecioshka.pl/blog/2017/02/06/globalna-konfiguracja-gita.html>
 
 1. Globalny plik `.gitconfig`
 
