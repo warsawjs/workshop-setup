@@ -61,5 +61,6 @@
     Oczekiwany rezultat to komunikat:
 
     ```text
-    Hi piecioshka! You've successfully authenticated, but GitHub does not provide shell access.
+    Hi piecioshka! You've successfully authenticated, but GitHub does not
+    provide shell access.
     ```

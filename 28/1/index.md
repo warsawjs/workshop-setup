@@ -27,4 +27,3 @@ Dodatkowo:
 
 * Zainstalować globalnie (z rejestru `npm`):
     + `@angular/cli`
-
