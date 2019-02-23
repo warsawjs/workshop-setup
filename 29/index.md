@@ -1,4 +1,4 @@
-# Grupa nr. 3: Jak przygotować się do warsztatów?
+# Co jest potrzebne na `WarsawJS Workshop #29`?
 
 Konfiguracja środowiska:
 
@@ -14,19 +14,7 @@ Konfiguracja środowiska:
 6. [ESLint](/workshop-setup/partials/eslint.html)
 7. (Opcjonalnie) [Docker](/workshop-setup/partials/docker.html)
 
-Konfiguracja projektu `warsawjs-workshop-28-pwa`:
-
-1. Sklonować projekt:
-    <https://github.com/mszklarski/warsawjs-workshop-28-collector-pwa-boilerplate>
-2. Zainstalować zależności w projekcie za pomocą polecenia `npm install` lub `yarn`.
-
-Docelowy projekt:
-<https://github.com/mszklarski/warsawjs-workshop-28-collector-pwa>
-
 Dodatkowo:
 
-* Zainstalować plugin do `Visual Studio Code`:
-    + `Vetur`
 * Zainstalować globalnie (z rejestru `npm`) następujące paczki:
-    + `vue/cli`
-    + `json-server`
+    + `@angular/cli`

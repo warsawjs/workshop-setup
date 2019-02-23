@@ -25,5 +25,5 @@ Docelowy projekt:
 
 Dodatkowo:
 
-* Zainstalować globalnie (z rejestru `npm`):
+* Zainstalować globalnie (z rejestru `npm`) następujące paczki:
     + `@angular/cli`
