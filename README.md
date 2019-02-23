@@ -57,3 +57,7 @@
 * <https://warsawjs.github.io/workshop-setup/28/2/>
 * <https://warsawjs.github.io/workshop-setup/28/3/>
 * <https://warsawjs.github.io/workshop-setup/28/4/>
+
+## WarsawJS Workshop #29: Angular jako nowoczesny framework
+
+* <https://warsawjs.github.io/workshop-setup/29/>
