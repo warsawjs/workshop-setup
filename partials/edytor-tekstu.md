@@ -7,13 +7,15 @@ Pamiętaj, aby mieć zainstalowany edytor tekstu np.
     Polecane rozszerzenia:
 
     + [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+    + [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
     + [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
-    + [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-    + [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
-    + [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
     + [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
-    + [Polish - Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-polish)
+    + [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
     + [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
+    + [Markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
+    + [Polish - Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-polish)
+    <!-- + [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) -->
+    + [Trailing Spaces](https://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces)
 
 * WebStorm – <https://www.jetbrains.com/webstorm/>
 * Atom – <https://atom.io/>
