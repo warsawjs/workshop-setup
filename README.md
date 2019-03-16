@@ -61,3 +61,9 @@
 ## WarsawJS Workshop #29: Angular jako nowoczesny framework
 
 * <https://warsawjs.github.io/workshop-setup/29/>
+
+## WarsawJS Workshop #30: Wydajność aplikacji webowych
+
+* <https://warsawjs.github.io/workshop-setup/30/1>
+* <https://warsawjs.github.io/workshop-setup/30/2>
+* <https://warsawjs.github.io/workshop-setup/30/3>

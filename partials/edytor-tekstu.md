@@ -14,7 +14,6 @@ Pamiętaj, aby mieć zainstalowany edytor tekstu np.
     + [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
     + [Markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
     + [Polish - Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-polish)
-    <!-- + [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) -->
     + [Trailing Spaces](https://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces)
 
 * WebStorm – <https://www.jetbrains.com/webstorm/>
