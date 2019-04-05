@@ -71,3 +71,4 @@
 ## WarsawJS Workshop #31: Node.js dla średnio-zaawansowanych
 
 * <https://warsawjs.github.io/workshop-setup/31/4>
+* <https://warsawjs.github.io/workshop-setup/31/5>

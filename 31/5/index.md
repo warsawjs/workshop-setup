@@ -1,4 +1,4 @@
-# Grupa nr. 4: Jak przygotować się do warsztatów?
+# Grupa nr. 5: Jak przygotować się do warsztatów?
 
 Konfiguracja środowiska:
 
@@ -10,15 +10,12 @@ Konfiguracja środowiska:
     + [Integracja z GitHub-em](/workshop-setup/partials/git-integracja-z-github.html)
     + [Konfiguracja użytkownika](/workshop-setup/partials/git-konfiguracja-uzytkownika.html)
     + [Konfiguracja globalna](/workshop-setup/partials/git-konfiguracja-globalna.html)
-5. [Mongo](https://docs.mongodb.com/manual/installation/)
+5. [EditorConfig](/workshop-setup/partials/editorconfig.html)
+6. [ESLint](/workshop-setup/partials/eslint.html)
+7. [MongoDB](https://docs.mongodb.com/manual/installation/)
+8. (Opcjonalnie) [Docker](/workshop-setup/partials/docker.html)
 
 Konfiguracja projektu `warsawjs-workshop-31-calendar-client`
 
 * Sklonować projekt <https://github.com/G3F4/warsawjs-workshop-31-calendar-client>
 * Zainstalować zależności
-
-Konfiguracja projektu `warsawjs-workshop-31-calendar`:
-
-* Sklonować projekt <https://github.com/G3F4/warsawjs-workshop-31-calendar>
-* Zainstalować zależności zgodnie z instrukcją w README.md
-* Zmienić branch na `workshop`.
