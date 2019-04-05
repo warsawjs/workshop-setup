@@ -64,11 +64,11 @@
 
 ## WarsawJS Workshop #30: Wydajność aplikacji webowych
 
-* <https://warsawjs.github.io/workshop-setup/30/1>
-* <https://warsawjs.github.io/workshop-setup/30/2>
-* <https://warsawjs.github.io/workshop-setup/30/3>
+* <https://warsawjs.github.io/workshop-setup/30/1/>
+* <https://warsawjs.github.io/workshop-setup/30/2/>
+* <https://warsawjs.github.io/workshop-setup/30/3/>
 
 ## WarsawJS Workshop #31: Node.js dla średnio-zaawansowanych
 
-* <https://warsawjs.github.io/workshop-setup/31/4>
-* <https://warsawjs.github.io/workshop-setup/31/5>
+* <https://warsawjs.github.io/workshop-setup/31/4/>
+* <https://warsawjs.github.io/workshop-setup/31/5/>

@@ -7,7 +7,7 @@
 5. Sklonować kilka projektów i zainstalować zależności w każdym z nich:
 
     - [`warsawjs-workshop-22-alarm-clock`](https://github.com/piecioshka/warsawjs-workshop-22-alarm-clock)
-    
+
         ```bash
         git clone git@github.com:piecioshka/warsawjs-workshop-22-alarm-clock.git
         cd warsawjs-workshop-22-alarm-clock
@@ -15,7 +15,7 @@
         ```
 
     - [`warsawjs-workshop-22-async-handler`](https://github.com/piecioshka/warsawjs-workshop-22-async-handler)
-    
+
         ```bash
         git clone git@github.com:piecioshka/warsawjs-workshop-22-async-handler.git
         cd warsawjs-workshop-22-async-handler
@@ -23,7 +23,7 @@
         ```
 
     - [`warsawjs-workshop-22-checking-dom`](https://github.com/piecioshka/warsawjs-workshop-22-checking-dom)
-    
+
         ```bash
         git clone git@github.com:piecioshka/warsawjs-workshop-22-checking-dom.git
         cd warsawjs-workshop-22-checking-dom
@@ -31,7 +31,7 @@
         ```
 
     - [`warsawjs-workshop-22-code-coverage`](https://github.com/piecioshka/warsawjs-workshop-22-code-coverage)
-    
+
         ```bash
         git clone git@github.com:piecioshka/warsawjs-workshop-22-code-coverage.git
         cd warsawjs-workshop-22-code-coverage
@@ -39,7 +39,7 @@
         ```
 
     - [`warsawjs-workshop-22-first-steps`](https://github.com/piecioshka/warsawjs-workshop-22-first-steps)
-    
+
         ```bash
         git clone git@github.com:piecioshka/warsawjs-workshop-22-first-steps.git
         cd warsawjs-workshop-22-first-steps
