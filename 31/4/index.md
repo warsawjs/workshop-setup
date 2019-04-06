@@ -11,6 +11,7 @@ Konfiguracja środowiska:
     + [Konfiguracja użytkownika](/workshop-setup/partials/git-konfiguracja-uzytkownika.html)
     + [Konfiguracja globalna](/workshop-setup/partials/git-konfiguracja-globalna.html)
 5. [Mongo](https://docs.mongodb.com/manual/installation/)
+    + MongoDB [Compass](https://www.mongodb.com/download-center/compass)
 
 Konfiguracja projektu `warsawjs-workshop-31-calendar-client`
 

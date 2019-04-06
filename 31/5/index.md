@@ -13,6 +13,7 @@ Konfiguracja środowiska:
 5. [EditorConfig](/workshop-setup/partials/editorconfig.html)
 6. [ESLint](/workshop-setup/partials/eslint.html)
 7. [MongoDB](https://docs.mongodb.com/manual/installation/)
+    + MongoDB [Compass](https://www.mongodb.com/download-center/compass)
 8. (Opcjonalnie) [Docker](/workshop-setup/partials/docker.html)
 
 Konfiguracja projektu `warsawjs-workshop-31-calendar-client`
