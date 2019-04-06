@@ -25,3 +25,11 @@ Konfiguracja projektu `warsawjs-workshop-31-calendar`:
 
 * Sklonować projekt <https://github.com/piecioshka/warsawjs-workshop-31-calendar>
 * Zainstalować zależności
+
+Weryfikacja
+
+* Aby spr. prawidłową instalację i konfigurację należy uruchomić polecenie:
+
+    ```bash
+    bash -e "$(curl -SL https://raw.githubusercontent.com/warsawjs/workshop-setup/master/31/verify/verify.sh)"
+    ```
