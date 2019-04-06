@@ -21,7 +21,7 @@
 * Sklonować projekt <https://github.com/G3F4/warsawjs-workshop-31-calendar-client>
 * Zainstalować zależności
 
-## Konfiguracja projektu `warsawjs-workshop-31-calendar`:
+## Konfiguracja projektu `warsawjs-workshop-31-calendar`
 
 * Sklonować projekt <https://github.com/piecioshka/warsawjs-workshop-31-calendar>
 * Zainstalować zależności

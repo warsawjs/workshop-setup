@@ -1,6 +1,6 @@
 # Grupa nr. 1: Jak przygotować się do warsztatów?
 
-Konfiguracja środowiska:
+## Konfiguracja środowiska
 
 1. [Edytor tekstu](/workshop-setup/partials/edytor-tekstu.html)
 2. [Przeglądarka](/workshop-setup/partials/przegladarka.html)
@@ -13,12 +13,12 @@ Konfiguracja środowiska:
 5. [Mongo](https://docs.mongodb.com/manual/installation/)
     + MongoDB [Compass](https://www.mongodb.com/download-center/compass)
 
-Konfiguracja projektu `warsawjs-workshop-31-calendar-client`
+## Konfiguracja projektu `warsawjs-workshop-31-calendar-client`
 
 * Sklonować projekt <https://github.com/G3F4/warsawjs-workshop-31-calendar-client>
 * Zainstalować zależności
 
-Konfiguracja projektu `warsawjs-workshop-31-calendar`:
+## Konfiguracja projektu `warsawjs-workshop-31-calendar`
 
 * Sklonować projekt <https://github.com/rsp/warsawjs-workshop-31-calendar>
 * Zainstalować zależności
