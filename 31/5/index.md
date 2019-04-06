@@ -31,5 +31,5 @@ Weryfikacja
 * Aby spr. prawidłową instalację i konfigurację należy uruchomić polecenie:
 
     ```bash
-    bash -e "$(curl -SL https://raw.githubusercontent.com/warsawjs/workshop-setup/master/31/verify/verify.sh)"
+    /usr/bin/env bash -e "$(curl -SL https://raw.githubusercontent.com/warsawjs/workshop-setup/master/31/verify/verify.sh)"
     ```
