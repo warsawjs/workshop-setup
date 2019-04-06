@@ -22,3 +22,11 @@
 
 * Sklonować projekt <https://github.com/rsp/warsawjs-workshop-31-calendar>
 * Zainstalować zależności
+
+## Weryfikacja
+
+* Aby spr. prawidłową instalację i konfigurację należy uruchomić polecenie:
+
+    ```bash
+    bash -c "$(curl -SL https://raw.githubusercontent.com/warsawjs/workshop-setup/master/31/verify/verify.sh)"
+    ```

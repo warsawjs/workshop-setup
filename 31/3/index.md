@@ -26,3 +26,11 @@
 ## Dodatkowo
 
 * Instalacja Nest CLI: `npm i -g @nestjs/cli`
+
+## Weryfikacja
+
+* Aby spr. prawidłową instalację i konfigurację należy uruchomić polecenie:
+
+    ```bash
+    bash -c "$(curl -SL https://raw.githubusercontent.com/warsawjs/workshop-setup/master/31/verify/verify.sh)"
+    ```

@@ -23,3 +23,11 @@
 * Sklonować projekt <https://github.com/G3F4/warsawjs-workshop-31-calendar>
 * Zainstalować zależności zgodnie z instrukcją w README.md
 * Zmienić branch na `workshop`.
+
+## Weryfikacja
+
+* Aby spr. prawidłową instalację i konfigurację należy uruchomić polecenie:
+
+    ```bash
+    bash -c "$(curl -SL https://raw.githubusercontent.com/warsawjs/workshop-setup/master/31/verify/verify.sh)"
+    ```
