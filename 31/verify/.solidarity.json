@@ -59,6 +59,20 @@
                 "binary": "docker",
                 "version": "^18.0.0"
             }
+        ],
+        "MongoDB": [
+            {
+                "rule": "cli",
+                "binary": "mongod",
+                "version": "^4.0.5"
+            }
+        ],
+        "MongoDB Compass": [
+            {
+                "rule": "dir",
+                "location": "/Applications/MongoDB Compass.app/",
+                "platform": "darwin"
+            }
         ]
     }
 }
