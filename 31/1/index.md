@@ -25,7 +25,7 @@
 
 ## Weryfikacja
 
-* Aby sprawdzić konfigurację systemu należy uruchomić polecenie:
+* Aby sprawdzić konfigurację systemu, należy uruchomić polecenie:
 
     ```bash
     bash -c "$(curl -sSL https://raw.githubusercontent.com/piecioshka/test-solidarity/master/verify.sh)"
