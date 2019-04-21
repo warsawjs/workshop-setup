@@ -4,7 +4,7 @@
     <img src="assets/logo.png" alt=""/>
 </p>
 
-# WarsawJS Workshop: Wstępna konfiguracja [![travis](https://img.shields.io/travis/warsawjs/workshop-setup.svg?maxAge=2592000)](https://travis-ci.org/warsawjs/workshop-setup)
+# WarsawJS Workshop: Wstępna konfiguracja [![travis](https://img.shields.io/travis/warsawjs/workshop-setup.svg)](https://travis-ci.org/warsawjs/workshop-setup)
 
 ## WarsawJS Workshop #21: React.js + Redux
 
