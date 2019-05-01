@@ -26,8 +26,11 @@
 
 ## Weryfikacja
 
-* Aby sprawdzić konfigurację systemu, należy uruchomić polecenie:
+Aby sprawdzić konfigurację systemu, należy uruchomić:
 
-    ```bash
-    bash -c "$(curl -sSL https://raw.githubusercontent.com/piecioshka/test-solidarity/master/verify.sh)"
-    ```
+```bash
+mkdir -p /tmp/
+curl -sSL https://raw.githubusercontent.com/warsawjs/workshop-setup/master/31/.solidarity.json > /tmp/.solidarity.json
+npx solidarity -f /tmp/.solidarity.json
+rm /tmp/.solidarity.json
+```

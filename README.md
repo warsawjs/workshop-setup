@@ -70,8 +70,8 @@
 
 ## WarsawJS Workshop #31: Node.js dla średnio-zaawansowanych
 
-* <https://warsawjs.github.io/workshop-setup/31/1/> + Solidarity
-* <https://warsawjs.github.io/workshop-setup/31/2/> + Solidarity
-* <https://warsawjs.github.io/workshop-setup/31/3/> + Solidarity
-* <https://warsawjs.github.io/workshop-setup/31/4/> + Solidarity
-* <https://warsawjs.github.io/workshop-setup/31/5/> + Solidarity
+* <https://warsawjs.github.io/workshop-setup/31/1/> (+ Solidarity)
+* <https://warsawjs.github.io/workshop-setup/31/2/> (+ Solidarity)
+* <https://warsawjs.github.io/workshop-setup/31/3/> (+ Solidarity)
+* <https://warsawjs.github.io/workshop-setup/31/4/> (+ Solidarity)
+* <https://warsawjs.github.io/workshop-setup/31/5/> (+ Solidarity)
