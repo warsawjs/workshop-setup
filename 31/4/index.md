@@ -34,3 +34,5 @@ curl -sSL https://raw.githubusercontent.com/warsawjs/workshop-setup/master/31/.s
 npx solidarity -f /tmp/.solidarity.json
 rm /tmp/.solidarity.json
 ```
+
+_Dla Windows: Uruchom powyższe polecania w `Git Bash`._
