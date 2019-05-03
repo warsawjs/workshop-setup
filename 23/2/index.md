@@ -1,4 +1,4 @@
-# Grupa nr. 2: Jak przygotować się do warsztatów?
+# Grupa nr 2: Jak przygotować się do warsztatów?
 
 Co należy mieć:
 

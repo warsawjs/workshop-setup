@@ -1,4 +1,4 @@
-# Grupa nr. 3: Jak przygotować się do warsztatów?
+# Grupa nr 3: Jak przygotować się do warsztatów?
 
 ## Zadania ogólne (prawdopodobnie pierwsze 4 masz już zrobione)
 

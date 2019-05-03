@@ -1,4 +1,4 @@
-# Grupa nr. 3: Jak przygotować się do warsztatów?
+# Grupa nr 3: Jak przygotować się do warsztatów?
 
 1. [Edytor tekstu](/workshop-setup/partials/edytor-tekstu.html)
 2. [Przeglądarka](/workshop-setup/partials/przegladarka.html)

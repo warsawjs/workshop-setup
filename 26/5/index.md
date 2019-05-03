@@ -1,4 +1,4 @@
-# Grupa nr. 5: Jak przygotować się do warsztatów?
+# Grupa nr 5: Jak przygotować się do warsztatów?
 
 Konfiguracja środowiska:
 
