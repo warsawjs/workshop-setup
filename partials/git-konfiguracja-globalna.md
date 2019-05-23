@@ -18,7 +18,9 @@ Warto przeczytać:
 
         - Windows
 
-            `C:/Users/%USER%/.gitconfig`
+            ```text
+            C:/Users/%USER%/.gitconfig
+            ```
 
     + Następnie uruchamiamy:
 
@@ -39,7 +41,9 @@ Warto przeczytać:
 
         - Windows
 
-            `C:/Users/%USER%/.gitignore`
+            ```text
+            C:/Users/%USER%/.gitignore
+            ```
 
     + Zawartość pliku `~/.gitignore`:
 
