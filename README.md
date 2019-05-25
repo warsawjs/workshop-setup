@@ -78,5 +78,8 @@
 
 ## WarsawJS Workshop #32: React.js dla zaawansowanych
 
+* <https://warsawjs.github.io/workshop-setup/32/1/> (+ Solidarity)
+* <https://warsawjs.github.io/workshop-setup/32/2/> (+ Solidarity)
+* <https://warsawjs.github.io/workshop-setup/32/3/> (+ Solidarity)
 * <https://warsawjs.github.io/workshop-setup/32/4/> (+ Solidarity)
 * <https://warsawjs.github.io/workshop-setup/32/5/> (+ Solidarity)
