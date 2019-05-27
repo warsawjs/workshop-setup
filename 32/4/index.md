@@ -19,9 +19,11 @@
 
 ## Konfiguracja projektu `warsawjs-workshop-32-book-it`
 
-* Sklonować projekt z GitHuba i zainstalować zależności `npm install`:
-    <https://github.com/mbury/warsawjs-workshop-32-book-it>
-* Postępuj zgodnie z instrukcjami w repozytorium
+```bash
+git clone git@github.com:mbury/warsawjs-workshop-32-book-it.git
+cd warsawjs-workshop-32-book-it
+npm install # lub yarn
+```
 
 ## Weryfikacja
 

@@ -19,9 +19,13 @@
 
 ## Konfiguracja projektu `warsawjs-workshop-32-book-it`
 
-* Sklonować projekt z GitHuba i zainstalować zależności `npm install`:
-   <https://github.com/Flixow/warsawjs-workshop-32-book-it>
-* Stworzyć konto na [Heroku](https://signup.heroku.com/login)
+```bash
+git clone git@github.com:Flixow/warsawjs-workshop-32-book-it.git
+cd warsawjs-workshop-32-book-it
+npm install # lub yan
+```
+
+Dodatkowo należy stworzyć konto na [Heroku](https://signup.heroku.com/login)
 
 ## Weryfikacja
 

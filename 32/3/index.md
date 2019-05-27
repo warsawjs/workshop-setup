@@ -18,10 +18,13 @@
 
 ## Konfiguracja projektu `warsawjs-workshop-32-book-it`
 
-* Sklonować projekt na GitHubie <https://github.com/G3F4/warsawjs-workshop-32-book-it>
-* Zmienić na branch `etap-0`
-* Zainstalować zależności `yarn` lub `npm i`:
-* Uruchomić aplikację i sprawdzić w przeglądarce na `localhost:3000`
+```bash
+git clone git@github.com:G3F4/warsawjs-workshop-32-book-it.git
+cd warsawjs-workshop-32-book-it
+git checkout etap-0
+npm install # lub yarn
+npm start # otworzyć w przeglądarce http://localhost:3000
+```
 
 ## Weryfikacja
 

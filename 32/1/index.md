@@ -13,8 +13,11 @@
 
 ## Konfiguracja projektu `warsawjs-workshop-32-book-it`
 
-* Sklonować projekt na GitHubie <https://github.com/malyfko/warsawjs-workshop-32-book-it>
-* Zainstalować zależności `yarn` lub `npm i`:
+```bash
+git clone git@github.com:malyfko/warsawjs-workshop-32-book-it.git
+cd warsawjs-workshop-32-book-it
+npm install # lub yarn
+```
 
 ## Weryfikacja
 
