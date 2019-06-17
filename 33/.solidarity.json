@@ -1,0 +1,72 @@
+{
+    "$schema": "https://raw.githubusercontent.com/infinitered/solidarity/master/solidaritySchema.json",
+    "config": {
+        "output": "verbose"
+    },
+    "requirements": {
+        "Git": [
+            {
+                "rule": "cli",
+                "binary": "git",
+                "semver": "^2.0.0"
+            },
+            {
+                "rule": "shell",
+                "command": "git config user.name",
+                "match": ".+"
+            },
+            {
+                "rule": "shell",
+                "command": "git config user.email",
+                "match": ".+@.+"
+            }
+        ],
+        "GitHub": [
+            {
+                "rule": "shell",
+                "__comment__": "Redirect stderr to stdout",
+                "command": "ssh -T git@github.com 2>&1",
+                "match": "You've successfully authenticated"
+            }
+        ],
+        "Google Chrome": [
+            {
+                "rule": "dir",
+                "location": "/Applications/Google Chrome.app/",
+                "platform": "darwin"
+            },
+            {
+                "rule": "dir",
+                "location": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+                "platform": "windows"
+            }
+        ],
+        "Node.js": [
+            {
+                "rule": "cli",
+                "binary": "node",
+                "semver": ">=10.x.x"
+            }
+        ],
+        "npm": [
+            {
+                "rule": "cli",
+                "binary": "npm",
+                "semver": ">=6.x.x"
+            }
+        ],
+        "SSH": [
+            {
+                "rule": "cli",
+                "binary": "ssh",
+                "version": "-V"
+            }
+        ],
+        "Visual Studio Code": [
+            {
+                "rule": "cli",
+                "binary": "code"
+            }
+        ]
+    }
+}
