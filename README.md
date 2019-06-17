@@ -87,3 +87,6 @@
 ## WarsawJS Workshop #33: Vue.js dla początkujących
 
 * <https://warsawjs.github.io/workshop-setup/33/1/> (+ Solidarity)
+* <https://warsawjs.github.io/workshop-setup/33/2/> (+ Solidarity)
+* <https://warsawjs.github.io/workshop-setup/33/3/> (+ Solidarity)
+* <https://warsawjs.github.io/workshop-setup/33/4/> (+ Solidarity)
