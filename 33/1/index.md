@@ -19,6 +19,13 @@ cd warsawjs-workshop-33-twitter
 npm install # lub yarn
 ```
 
+## Dodatkowo
+
+* Zainstalować plugin do `Visual Studio Code`:
+    + `Vetur`
+* Zainstalować plugin do `Google Chrome`:
+    + `Vue.js devtools`
+
 ## Weryfikacja
 
 Aby sprawdzić konfigurację systemu, należy uruchomić:
