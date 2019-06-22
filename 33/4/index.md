@@ -11,11 +11,11 @@
     + [Konfiguracja użytkownika](/workshop-setup/partials/git-konfiguracja-uzytkownika.html)
     + [Konfiguracja globalna](/workshop-setup/partials/git-konfiguracja-globalna.html)
 
-## Konfiguracja projektu `???`
+## Konfiguracja projektu `warsawjs-workshop-33-collector`
 
 ```bash
-git clone git@github.com:mszklarski/???
-cd ???
+git clone git@github.com:mszklarski/warsawjs-workshop-33-collector
+cd warsawjs-workshop-33-collector
 npm install # lub yarn
 ```
 
