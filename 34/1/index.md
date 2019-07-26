@@ -1,6 +1,6 @@
-# Grupa nr 2: Jak przygotować się do warsztatów?
+# Grupa nr 1: Jak przygotować się do warsztatów?
 
-Trener: Piotr Kowalski
+Trener: Kamil Grabek
 
 ## Konfiguracja środowiska
 
@@ -16,7 +16,7 @@ Trener: Piotr Kowalski
 ## Konfiguracja projektu `warsawjs-workshop-34-trainer-needed`
 
 ```bash
-git clone git@github.com:piecioshka/warsawjs-workshop-34-trainer-needed.git
+git clone git@github.com:G3F4/warsawjs-workshop-34-trainer-needed.git
 cd warsawjs-workshop-34-trainer-needed
 npm install
 ```
