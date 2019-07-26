@@ -1,4 +1,6 @@
-# Grupa Roberta Kaweckiego: Jak przygotować się do warsztatów?
+# Grupa nr 2: Jak przygotować się do warsztatów?
+
+Trener: Piotr Kowalski
 
 ## Konfiguracja środowiska
 
@@ -14,7 +16,7 @@
 ## Konfiguracja projektu `warsawjs-workshop-34-trainer-needed`
 
 ```bash
-git clone https://github.com/rkaw92/warsawjs-workshop-34-trainer-needed.git
+git clone git@github.com:piecioshka/warsawjs-workshop-34-trainer-needed.git
 cd warsawjs-workshop-34-trainer-needed
 npm install
 ```
@@ -24,6 +26,7 @@ npm install
 Aby sprawdzić konfigurację systemu, należy uruchomić:
 
 ```bash
+mkdir -p /tmp/
 curl -sSL https://raw.githubusercontent.com/warsawjs/workshop-setup/master/34/5/.solidarity.json > /tmp/.solidarity.json
 npx solidarity -f /tmp/.solidarity.json
 rm /tmp/.solidarity.json

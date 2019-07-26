@@ -1,4 +1,6 @@
-# Grupa Piotra Kowalskiego: Jak przygotować się do warsztatów?
+# Grupa nr 4: Jak przygotować się do warsztatów?
+
+Trener: Robert Kawecki
 
 ## Konfiguracja środowiska
 
@@ -11,20 +13,13 @@
     + [Konfiguracja użytkownika](/workshop-setup/partials/git-konfiguracja-uzytkownika.html)
     + [Konfiguracja globalna](/workshop-setup/partials/git-konfiguracja-globalna.html)
 
-## Konfiguracja projektu `warsawjs-workshop-33-twitter`
+## Konfiguracja projektu `warsawjs-workshop-34-trainer-needed`
 
 ```bash
-git clone git@github.com:piecioshka/warsawjs-workshop-33-twitter
-cd warsawjs-workshop-33-twitter
-npm install # lub yarn
+git clone git@github.com:rkaw92/warsawjs-workshop-34-trainer-needed.git
+cd warsawjs-workshop-34-trainer-needed
+npm install
 ```
-
-## Dodatkowo
-
-* Zainstalować plugin do `Visual Studio Code`:
-    + `Vetur`
-* Zainstalować plugin do `Google Chrome`:
-    + `Vue.js devtools`
 
 ## Weryfikacja
 
@@ -32,7 +27,7 @@ Aby sprawdzić konfigurację systemu, należy uruchomić:
 
 ```bash
 mkdir -p /tmp/
-curl -sSL https://raw.githubusercontent.com/warsawjs/workshop-setup/master/33/.solidarity.json > /tmp/.solidarity.json
+curl -sSL https://raw.githubusercontent.com/warsawjs/workshop-setup/master/34/.solidarity.json > /tmp/.solidarity.json
 npx solidarity -f /tmp/.solidarity.json
 rm /tmp/.solidarity.json
 ```
