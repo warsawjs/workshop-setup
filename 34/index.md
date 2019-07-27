@@ -1,6 +1,4 @@
-# Grupa nr 2: Jak przygotować się do warsztatów?
-
-Trener: Piotr Kowalski
+# Co jest potrzebne na `WarsawJS Workshop #34`?
 
 ## Konfiguracja środowiska
 
@@ -12,14 +10,6 @@ Trener: Piotr Kowalski
     + [Integracja z GitHub-em](/workshop-setup/partials/git-integracja-z-github.html)
     + [Konfiguracja użytkownika](/workshop-setup/partials/git-konfiguracja-uzytkownika.html)
     + [Konfiguracja globalna](/workshop-setup/partials/git-konfiguracja-globalna.html)
-
-## Konfiguracja projektu `warsawjs-workshop-34-trainer-needed`
-
-```bash
-git clone git@github.com:piecioshka/warsawjs-workshop-34-trainer-needed.git
-cd warsawjs-workshop-34-trainer-needed
-npm install
-```
 
 ## Weryfikacja
 
