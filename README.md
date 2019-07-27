@@ -93,7 +93,4 @@
 
 ## WarsawJS Workshop #34: Aplikacje czasu rzeczywistego (WebSockets)
 
-* <https://warsawjs.github.io/workshop-setup/34/1/> (+ Solidarity)
-* <https://warsawjs.github.io/workshop-setup/34/2/> (+ Solidarity)
-* <https://warsawjs.github.io/workshop-setup/34/3/> (+ Solidarity)
-* <https://warsawjs.github.io/workshop-setup/34/4/> (+ Solidarity)
+* <https://warsawjs.github.io/workshop-setup/34/> (+ Solidarity)
