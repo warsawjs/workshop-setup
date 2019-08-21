@@ -94,3 +94,7 @@
 ## WarsawJS Workshop #34: Aplikacje czasu rzeczywistego (WebSockets)
 
 * <https://warsawjs.github.io/workshop-setup/34/> (+ Solidarity)
+
+## WarsawJS Workshop #35: Walka z Legacy Code
+
+* <https://warsawjs.github.io/workshop-setup/35/> (+ Solidarity)
