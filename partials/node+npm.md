@@ -2,18 +2,18 @@
 
 ## Wymagane wersje
 
-* Node.js – min. 8.11.3
+* Node.js – min. v10.16.1
 
     ```bash
     node --version
-    # v8.11.3
+    # v10.16.1
     ```
 
-* npm – min. 5.6.0
+* npm – min. v6.10.2
 
     ```bash
     npm --version
-    # 5.6.0
+    # v6.10.2
     ```
 
 ## Instalacja
