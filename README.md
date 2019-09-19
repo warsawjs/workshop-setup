@@ -98,3 +98,7 @@
 ## WarsawJS Workshop #35: Walka z Legacy Code
 
 * <https://warsawjs.github.io/workshop-setup/35/> (+ Solidarity)
+
+## WarsawJS Workshop #36: Wprowadzenie do JavaScript
+
+* <https://warsawjs.github.io/workshop-setup/36/> (+ Solidarity)
