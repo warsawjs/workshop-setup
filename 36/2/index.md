@@ -1,4 +1,4 @@
-# Grupa Łukasza Borawskiego: Jak przygotować się do warsztatów?
+# Grupa Krzysztof Łokaja: Jak przygotować się do warsztatów?
 
 ## Konfiguracja środowiska
 
@@ -11,7 +11,7 @@
     + [Konfiguracja użytkownika](/workshop-setup/partials/git-konfiguracja-uzytkownika.html)
     + [Konfiguracja globalna](/workshop-setup/partials/git-konfiguracja-globalna.html)
 
-## Konfiguracja projektu `???`
+## Konfiguracja projektu 
 
 Ściągnij pliki z zadaniami nad którymi będziemy pracować z repozytorium [tutaj](https://github.com/seapage/warsawjs-workshop-36-podstawy-javascript) lub użyj poniższej komendy:
 ```bash
