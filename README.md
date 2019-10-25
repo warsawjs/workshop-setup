@@ -102,3 +102,7 @@
 ## WarsawJS Workshop #36: Wprowadzenie do JavaScript
 
 * <https://warsawjs.github.io/workshop-setup/36/> (+ Solidarity)
+
+## WarsawJS Workshop #37: TypeScript dla średnio-zaawansowanych
+
+* <https://warsawjs.github.io/workshop-setup/37/> (+ Solidarity)
