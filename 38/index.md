@@ -1,4 +1,4 @@
-# Grupa Dmytro Maretskyi - nr. 1: Jak przygotować się do warsztatów?
+# Co jest potrzebne na `WarsawJS Workshop #38`?
 
 ## Konfiguracja środowiska
 
@@ -11,21 +11,13 @@
     + [Konfiguracja użytkownika](/workshop-setup/partials/git-konfiguracja-uzytkownika.html)
     + [Konfiguracja globalna](/workshop-setup/partials/git-konfiguracja-globalna.html)
 
-## Konfiguracja projektu `warsawjs-workshop-38-??`
-
-```bash
-git clone git@github.com:Marik-D/warsawjs-workshop-38-??
-cd warsawjs-workshop-38-??
-npm install # lub yarn
-```
-
 ## Weryfikacja
 
 Aby sprawdzić konfigurację systemu, należy uruchomić:
 
 ```bash
 mkdir -p /tmp/
-curl -sSL https://raw.githubusercontent.com/warsawjs/workshop-setup/master/38/1/.solidarity.json > /tmp/.solidarity.json
+curl -sSL https://raw.githubusercontent.com/warsawjs/workshop-setup/master/38/.solidarity.json > /tmp/.solidarity.json
 npx solidarity -f /tmp/.solidarity.json
 rm /tmp/.solidarity.json
 ```
