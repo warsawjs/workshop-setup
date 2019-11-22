@@ -106,3 +106,9 @@
 ## WarsawJS Workshop #37: TypeScript dla średnio-zaawansowanych
 
 * <https://warsawjs.github.io/workshop-setup/37/> (+ Solidarity)
+
+## WarsawJS Workshop #38: RxJS
+
+* <https://warsawjs.github.io/workshop-setup/38/1/> (+ Solidarity)
+* <https://warsawjs.github.io/workshop-setup/38/2/> (+ Solidarity)
+* <https://warsawjs.github.io/workshop-setup/38/3/> (+ Solidarity)
