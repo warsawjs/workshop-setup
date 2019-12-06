@@ -110,3 +110,7 @@
 ## WarsawJS Workshop #38: RxJS
 
 * <https://warsawjs.github.io/workshop-setup/38/> (+ Solidarity)
+
+## WarsawJS Workshop #39: Wzorce projektowe
+
+* <https://warsawjs.github.io/workshop-setup/39/> (+ Solidarity)
