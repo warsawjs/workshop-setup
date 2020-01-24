@@ -114,3 +114,7 @@
 ## WarsawJS Workshop #39: Wzorce projektowe
 
 * <https://warsawjs.github.io/workshop-setup/39/> (+ Solidarity)
+
+## WarsawJS Workshop #40 - Seria: Trening Architekta — Bezpieczeństwo aplikacji webowych
+
+* <https://warsawjs.github.io/workshop-setup/40/> (+ Solidarity)
