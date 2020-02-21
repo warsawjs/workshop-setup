@@ -118,3 +118,7 @@
 ## WarsawJS Workshop #40 - Seria: Trening Architekta — Bezpieczeństwo aplikacji webowych
 
 * <https://warsawjs.github.io/workshop-setup/40/> (+ Solidarity)
+
+## WarsawJS Workshop #41 - JavaScript dla początkujących (1/3)
+
+* <https://warsawjs.github.io/workshop-setup/41/> (+ Solidarity)
