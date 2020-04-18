@@ -122,3 +122,7 @@
 ## WarsawJS Workshop #41 - JavaScript dla początkujących (1/3)
 
 * <https://warsawjs.github.io/workshop-setup/41/> (+ Solidarity)
+
+## WarsawJS Workshop #43 - JavaScript dla średnio zaawansowanych (2/3)
+
+* <https://warsawjs.github.io/workshop-setup/43/> (+ Solidarity)
