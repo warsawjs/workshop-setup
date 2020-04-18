@@ -126,3 +126,4 @@
 ## WarsawJS Workshop #43 - JavaScript dla średnio zaawansowanych (2/3)
 
 * <https://warsawjs.github.io/workshop-setup/43/> (+ Solidarity)
+

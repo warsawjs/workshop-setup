@@ -4,7 +4,7 @@
     "description": "WarsawJS Workshop: Wstępna konfiguracja",
     "main": "index.md",
     "dependencies": {
-        "markdownlint-cli": "^0.18.0"
+        "markdownlint-cli": "^0.22.0"
     },
     "devDependencies": {},
     "scripts": {
