@@ -130,3 +130,7 @@
 ## WarsawJS Workshop #44 - Seria: Trening Architekta — Wzorce projektowe
 
 * <https://warsawjs.github.io/workshop-setup/44/> (+ Solidarity)
+
+## WarsawJS Workshop #45 - JavaScript dla zaawansowanych (3/3)
+
+* <https://warsawjs.github.io/workshop-setup/45/> (+ Solidarity)
