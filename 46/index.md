@@ -17,7 +17,7 @@ Aby sprawdzić konfigurację systemu, należy uruchomić:
 
 ```bash
 mkdir -p /tmp/
-curl -sSL https://raw.githubusercontent.com/warsawjs/workshop-setup/master/45/.solidarity.json > /tmp/.solidarity.json
+curl -sSL https://raw.githubusercontent.com/warsawjs/workshop-setup/master/46/.solidarity.json > /tmp/.solidarity.json
 npx solidarity -f /tmp/.solidarity.json
 rm /tmp/.solidarity.json
 ```
