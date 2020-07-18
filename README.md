@@ -134,3 +134,7 @@
 ## WarsawJS Workshop #45 - JavaScript dla zaawansowanych (3/3)
 
 * <https://warsawjs.github.io/workshop-setup/45/> (+ Solidarity)
+
+## WarsawJS Workshop #46 - Seria: Trening Architekta — Programowanie funkcyjne
+
+* <https://warsawjs.github.io/workshop-setup/46/> (+ Solidarity)
